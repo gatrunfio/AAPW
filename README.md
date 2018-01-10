@@ -12,7 +12,7 @@ Published in: International Conference on Computational Science and Its Applicat
 
 ## Abstract
 
-We present a method for automatic assessment of perceived walkability by pedestrians, using a machine learning technique with deep convolutional neural networks (CNNs) trained on a dataset of georeferenced street-level images obtained from Google Street View. On a dataset of more than 17,000 human-assessed images used for training, validation and testing of CNN, our method yields an accuracy of 78% of correct and 99% of correct or 1-class-off predictions. These are quite promising, even encouraging results, paving the way for seamless large-scale applications of perceived walkability assessment on large metropolitan areas, and for mass assessment and comparisons of walkability over many cities across regions.
+We present a method for automatic assessment of perceived walkability by pedestrians, using a machine learning technique with deep convolutional neural networks (CNNs) trained on a dataset of georeferenced street-level images obtained from Google Street View. 
 
 ## Data
 
